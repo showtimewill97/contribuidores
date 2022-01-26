@@ -40,5 +40,5 @@ Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors][all-contributors] specification.
+This project follows the [all-contributors] [all-contributors] specification.
 Contributions of any kind welcome!
